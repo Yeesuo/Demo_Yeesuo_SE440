@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "29052024.sln"
+    "dotnet.defaultSolution": "Demo_Yeesuo_SE440.sln"
 }
